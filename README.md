@@ -1,0 +1,2 @@
+# Advertising-Predict-Who-Will-Likely-Click-On-The-Ad
+Predicted who will most likely click on the advertisement by understanding what constitutes a profit and a loss in a company using Logistic Regression classification model. Performed exploratory data analysis, statistical analysis and feature engineering to achieve an accuracy and precision of 94% and 93% respectively, to draw actionable recommendations to target new customers with the ad campaign to maximize the chance of a return on investment.
